@@ -1,4 +1,4 @@
-/*import { useState, useRef } from "react";
+import { useState, useRef } from "react";
 
 export default function Stopwatch() {
   const [time, setTime] = useState(0);
@@ -32,4 +32,4 @@ export default function Stopwatch() {
       <button onClick={reset}>Reset</button>
     </div>
   );
-}*/
+}
