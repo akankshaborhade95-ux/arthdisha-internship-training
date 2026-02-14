@@ -1,4 +1,4 @@
-function InvoiceFooter() {
+/*function InvoiceFooter() {
   const subtotal = 10500;
   const gst = subtotal * 0.18;
   const total = subtotal + gst;
@@ -13,4 +13,4 @@ function InvoiceFooter() {
 }
 
 export default InvoiceFooter;
-
+*/

@@ -13,7 +13,6 @@ function ClientInfo() {
 }
 
 export default ClientInfo;
-*/
 //task 4
 function ClientInfo({ name, email, phone, address }) {
   return (
@@ -29,4 +28,4 @@ function ClientInfo({ name, email, phone, address }) {
 
 export default ClientInfo;
 
-
+*/

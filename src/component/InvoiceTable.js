@@ -1,4 +1,4 @@
-function InvoiceTable() {
+/*function InvoiceTable() {
   return (
     <table
       style={{
@@ -57,3 +57,4 @@ const cell = {
 };
 
 export default InvoiceTable;
+*/

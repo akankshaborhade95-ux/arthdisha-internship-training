@@ -20,7 +20,7 @@ function App() {
     </div>
   );
 }
-export default App;*/
+export default App;
 import CompanyHeader from "./component/CompanyHeader";
 import ClientInfo from "./component/ClientInfo";
 import InvoiceTable from "./component/InvoiceTable";
@@ -81,6 +81,34 @@ function App() {
         <InvoiceFooter subtotal={10500} gst={1890} total={12390} />
       </div>
     </div>
+  );
+}
+export default App;*/
+//React Hooks
+import Counter from "./component/hooks/Counter";
+import Toggle from "./component/hooks/Toggle";
+import ColorChanger from "./component/hooks/ColorChanger";
+import SimpleForm from "./component/hooks/SimpleForm";
+import TitleCounter from "./component/hooks/TitleCounter";
+import Clock from "./component/hooks/Clock";
+import WindowWidth from "./component/hooks/WindowWidth";
+import UserSearch from "./component/hooks/UserSearch";
+import FocusInput from "./component/hooks/FocusInput";
+import Stopwatch from "./component/hooks/Stopwatch";
+function App() {
+  return (
+    <>
+      <Counter />
+      <Toggle />
+      <ColorChanger />
+      <SimpleForm />
+      <TitleCounter />
+      <Clock />
+      <WindowWidth />
+      <UserSearch />
+      <FocusInput />
+      <Stopwatch />
+    </>
   );
 }
 export default App;

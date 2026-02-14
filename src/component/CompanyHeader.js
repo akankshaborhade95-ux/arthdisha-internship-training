@@ -1,4 +1,4 @@
-function CompanyHeader() {
+/*function CompanyHeader() {
   return (
     <div style={{
       backgroundColor: "#dce4f4",
@@ -13,6 +13,7 @@ function CompanyHeader() {
 }
 
 export default CompanyHeader;
+*/
 
 
 
